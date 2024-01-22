@@ -4,3 +4,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/BlackA9/Git_Command_live_git.git
 git push -u origin main
+
+add:
+git config -- global user.name "github_user_name_here"
+git config -- global user.email "github_user_email_here"
